@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SC_SHOPPING.iml" filepath="$PROJECT_DIR$/SC_SHOPPING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-api-gateway/iotek-api-gateway.iml" filepath="$PROJECT_DIR$/iotek-api-gateway/iotek-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-config-server/iotek-config-server.iml" filepath="$PROJECT_DIR$/iotek-config-server/iotek-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-customer-api-service/iotek-customer-api-service.iml" filepath="$PROJECT_DIR$/iotek-customer-api-service/iotek-customer-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-customer-common/iotek-customer-common.iml" filepath="$PROJECT_DIR$/iotek-customer-common/iotek-customer-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-customer-consumer/iotek-customer-consumer.iml" filepath="$PROJECT_DIR$/iotek-customer-consumer/iotek-customer-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-customer-provider/iotek-customer-provider.iml" filepath="$PROJECT_DIR$/iotek-customer-provider/iotek-customer-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-demo/iotek-demo.iml" filepath="$PROJECT_DIR$/iotek-demo/iotek-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-eureka-server/iotek-eureka-server.iml" filepath="$PROJECT_DIR$/iotek-eureka-server/iotek-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-feign-consumer/iotek-feign-consumer.iml" filepath="$PROJECT_DIR$/iotek-feign-consumer/iotek-feign-consumer.iml" />
+    </modules>
+  </component>
+</project>

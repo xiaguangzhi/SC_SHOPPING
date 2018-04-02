@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/iotek-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iotek-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iotek-customer-api-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iotek-customer-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iotek-customer-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iotek-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iotek-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iotek-feign-consumer" charset="UTF-8" />
+  </component>
+</project>

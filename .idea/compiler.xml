@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="iotek-api-gateway" />
+        <module name="iotek-config-server" />
+        <module name="iotek-customer-api-service" />
+        <module name="iotek-customer-common" />
+        <module name="iotek-customer-consumer" />
+        <module name="iotek-customer-provider" />
+        <module name="iotek-demo" />
+        <module name="iotek-eureka-server" />
+        <module name="iotek-feign-consumer" />
+        <module name="iotek-user-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="iotek-api" target="1.5" />
+      <module name="iotek-api-gateway" target="1.8" />
+      <module name="iotek-config-server" target="1.8" />
+      <module name="iotek-customer-api-service" target="1.8" />
+      <module name="iotek-customer-common" target="1.5" />
+      <module name="iotek-customer-consumer" target="1.8" />
+      <module name="iotek-customer-provider" target="1.8" />
+      <module name="iotek-demo" target="1.8" />
+      <module name="iotek-eureka-server" target="1.8" />
+      <module name="iotek-feign-consumer" target="1.8" />
+      <module name="iotek-user-provider" target="1.5" />
+      <module name="SC_SHOPPING" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
