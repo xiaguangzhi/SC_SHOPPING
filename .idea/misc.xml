@@ -121,6 +121,7 @@
         <option value="$PROJECT_DIR$/iotek-customer-api-service/pom.xml" />
         <option value="$PROJECT_DIR$/iotek-api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/iotek-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/iotek-config-client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="iotek-api-gateway" />
+        <module name="iotek-config-client" />
         <module name="iotek-config-server" />
         <module name="iotek-customer-api-service" />
         <module name="iotek-customer-common" />
@@ -37,6 +38,7 @@
     <bytecodeTargetLevel>
       <module name="iotek-api" target="1.5" />
       <module name="iotek-api-gateway" target="1.8" />
+      <module name="iotek-config-client" target="1.8" />
       <module name="iotek-config-server" target="1.8" />
       <module name="iotek-customer-api-service" target="1.8" />
       <module name="iotek-customer-common" target="1.5" />

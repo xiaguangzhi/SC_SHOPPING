@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SC_SHOPPING.iml" filepath="$PROJECT_DIR$/SC_SHOPPING.iml" />
       <module fileurl="file://$PROJECT_DIR$/iotek-api-gateway/iotek-api-gateway.iml" filepath="$PROJECT_DIR$/iotek-api-gateway/iotek-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotek-config-client/iotek-config-client.iml" filepath="$PROJECT_DIR$/iotek-config-client/iotek-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/iotek-config-server/iotek-config-server.iml" filepath="$PROJECT_DIR$/iotek-config-server/iotek-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/iotek-customer-api-service/iotek-customer-api-service.iml" filepath="$PROJECT_DIR$/iotek-customer-api-service/iotek-customer-api-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/iotek-customer-common/iotek-customer-common.iml" filepath="$PROJECT_DIR$/iotek-customer-common/iotek-customer-common.iml" />

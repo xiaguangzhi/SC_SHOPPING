@@ -18,6 +18,8 @@
         <module>iotek-customer-consumer</module>
         <module>iotek-feign-consumer</module>
         <module>iotek-api-gateway</module>
+        <module>iotek-config-server</module>
+        <module>iotek-config-client</module>
 
 
     </modules>
