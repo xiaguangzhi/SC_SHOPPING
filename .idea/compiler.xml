@@ -33,6 +33,7 @@
         <module name="iotek-eureka-server" />
         <module name="iotek-feign-consumer" />
         <module name="iotek-user-provider" />
+        <module name="iotekconfigclientribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -48,6 +49,7 @@
       <module name="iotek-eureka-server" target="1.8" />
       <module name="iotek-feign-consumer" target="1.8" />
       <module name="iotek-user-provider" target="1.5" />
+      <module name="iotekconfigclientribbon" target="1.8" />
       <module name="SC_SHOPPING" target="1.5" />
     </bytecodeTargetLevel>
   </component>

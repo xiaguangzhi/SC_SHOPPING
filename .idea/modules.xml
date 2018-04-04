@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/iotek-demo/iotek-demo.iml" filepath="$PROJECT_DIR$/iotek-demo/iotek-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/iotek-eureka-server/iotek-eureka-server.iml" filepath="$PROJECT_DIR$/iotek-eureka-server/iotek-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/iotek-feign-consumer/iotek-feign-consumer.iml" filepath="$PROJECT_DIR$/iotek-feign-consumer/iotek-feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iotekconfigclientribbon/iotekconfigclientribbon.iml" filepath="$PROJECT_DIR$/iotekconfigclientribbon/iotekconfigclientribbon.iml" />
     </modules>
   </component>
 </project>
